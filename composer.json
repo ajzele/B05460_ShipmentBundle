@@ -1,0 +1,28 @@
+{
+  "name": "foggyline/shipmentbundle",
+  "version" : "1.0.0",
+  "type": "library",
+  "description": "Just a test module for web shop application.",
+  "keywords": [
+    "shipment"
+  ],
+  "homepage": "https://github.com/ajzele/B05460_ShipmentBundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Branko Ajzele",
+      "email": "ajzele@gmail.com",
+      "homepage": "http://foggyline.net",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-0": {
+      "Foggyline\\ShipmentBundle\\": ""
+    }
+  },
+  "target-dir": "Foggyline/ShipmentBundle"
+}
+
